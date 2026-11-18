@@ -1,6 +1,8 @@
-README.md 
+REAMDE.md 
 SHARE MARKET MASTERY
-Beginner to Advanced Learning Course
-Language: English + Marathi
-Welcome to Share Market Mastery! This course will help beginners understand the Indian stock market step by step.
+The Complete Beginner's Guide to the Indian Stock Market
+Course Level: Beginner to Intermediate
+Course Language: Professional English
+Course Format: Self-Learning Educational Program
+Number of Chapters: 8
 
