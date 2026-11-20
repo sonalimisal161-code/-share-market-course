@@ -234,3 +234,5 @@ Keep learning, keep practising with examples, and understand the risks before ma
 DISCLAIMER: This course is for educational purposes only. It does not provide investment advice or guarantee profits. Do not invest real money based on this beginner course.
 
 Created for educational learning – Share Market Mastery.
+
+This is Indian Share market Course 👍
